@@ -12,7 +12,6 @@
 
 </div>
 
----
 
 ---
 
@@ -117,7 +116,6 @@ Automation
 
 ---
 
----
 
 ## ⚡ What Drives Me
 
@@ -168,7 +166,7 @@ Learning new technologies and continuously improving.
 
 <div align="center">
 
-## ✦ Keep Building. Keep Learning. Keep Securing. ✦
+## ✦ Keep Building. Keep Learning. Keep Securing. ✦ 
 
 <br>
 
