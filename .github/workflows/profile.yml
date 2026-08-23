@@ -1,48 +1,42 @@
-name: Update GitHub Profile
+name: GitHub Profile
 
-on:
-  schedule:
-    - cron: "0 18 * * *"
+"on":
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  profile:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: lakshya5000
           outputs: |
-            github-snake.svg?palette=github-light
+            github-snake.svg
             github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate GitHub Metrics
+      - name: Generate GitHub metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: lakshya5000
+          filename: metrics.svg
           template: classic
           base: header, activity, repositories, metadata
           config_timezone: Asia/Kolkata
           plugin_languages: yes
           plugin_languages_limit: 8
-          plugin_languages_details: percentage, rank
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      - name: Commit generated files
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "chore: update GitHub profile assets"
-          add: |
-            metrics.svg
-            github-snake.svg
-            github-snake-dark.svg
+      - name: Save generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics.svg github-snake.svg github-snake-dark.svg
+          git diff --cached --quiet || git commit -m "chore: update profile assets"
+          git push
