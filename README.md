@@ -1,14 +1,23 @@
 <div align="center">
 
+<!-- HERO IMAGE / GIF -->
+<img src="./assets/hero.gif" width="850" alt="Lakshya Soni">
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Information+Security+%40+VIT+Vellore;Full-Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Explorer;Building+%7C+Learning+%7C+Securing" alt="Typing introduction">
 
 <br>
 
 # Lakshya Soni
 
-### `Information Security` · `Software Engineering` · `AI / ML`
+### Information Security · Software Engineering · AI / ML
 
 
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-lakshya5000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshya5000)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshyasoni657@gmail.com)
 
 </div>
 
@@ -16,13 +25,9 @@
 
 ## 👋 About Me
 
-I'm a **B.Tech Information Security student at VIT Vellore** with a strong interest in building practical software and understanding how systems can be made more secure.
+I'm a **B.Tech Information Security student at VIT Vellore** interested in the intersection of **cybersecurity, software engineering, and AI/ML**.
 
-My interests sit at the intersection of:
-
-**Cybersecurity · Full-Stack Development · Backend Engineering · AI/ML**
-
-I enjoy learning by building, experimenting with new technologies, and turning ideas into working systems.
+I enjoy learning by building — understanding how systems work, developing practical applications, and exploring how technology can be made more secure, reliable, and intelligent.
 
 > **Build with curiosity. Engineer with intent. Secure by design.**
 
@@ -32,26 +37,27 @@ I enjoy learning by building, experimenting with new technologies, and turning i
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
 ### 🔐 CYBERSECURITY
 
-Threat Detection
-Network Security
-Digital Forensics
-Secure Applications
+Threat Detection  
+Network Security  
+Digital Forensics  
+Secure Applications  
 Security Analytics
 
 </td>
 
 <td width="33%" align="center">
 
-### 💻 ENGINEERING
+### 💻 SOFTWARE
 
-Full-Stack Development
-Backend Systems
-REST APIs
-Databases
+Full-Stack Development  
+Backend Systems  
+REST APIs  
+Databases  
 Real-Time Applications
 
 </td>
@@ -60,194 +66,128 @@ Real-Time Applications
 
 ### 🤖 AI / ML
 
-Anomaly Detection
-Classification
-Data Analysis
-Security Intelligence
+Anomaly Detection  
+Classification  
+Data Analysis  
+Security Intelligence  
 Automation
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,js" alt="Programming languages">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,js" alt="Languages">
 
-### Development
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,html,tailwind" alt="Development technologies">
+### Web & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,html,tailwind" alt="Web Technologies">
+
+<br><br>
 
 ### Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux,figma" alt="Databases and tools">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux,figma" alt="Databases and Tools">
+
+<br><br>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
 </div>
-
-<br>
-
-**Also working with:** `SQL Server` · `Pandas` · `Scikit-learn` · `REST APIs` · `WebSockets`
 
 ---
 
 ## 🔭 Currently Exploring
 
-```text
-CYBERSECURITY
-├── Security Operations
-├── Threat Detection
-├── Digital Forensics
-└── Network Security
-
-SOFTWARE ENGINEERING
-├── Backend Architecture
-├── REST APIs
-├── Real-Time Systems
-└── System Design
-
-AI / ML
-├── Anomaly Detection
-├── Classification
-├── Security Analytics
-└── Automation
-```
-
----
-
-## 📊 GitHub Activity
-
 <div align="center">
 
-<img src="./metrics.svg" width="90%" alt="GitHub Metrics">
+| 🔐 Cybersecurity | 💻 Engineering | 🤖 AI / ML |
+|:---:|:---:|:---:|
+| Security Operations | Backend Architecture | Anomaly Detection |
+| Threat Detection | System Design | Classification |
+| Digital Forensics | REST APIs | Security Analytics |
+| Network Security | Real-Time Systems | Automation |
 
 </div>
 
 ---
 
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
-  <img alt="GitHub contribution snake" src="./github-snake.svg" width="90%">
-</picture>
-
-</div>
-
 ---
 
-## 🏅 Beyond Code
-
-<div align="center">
+## ⚡ What Drives Me
 
 <table>
 <tr>
-<td align="center" width="33%">
 
-### 🎓 Education
+<td width="25%" align="center">
 
-**B.Tech Information Security**
+### 🔍
+**Curiosity**
 
-VIT Vellore
-
-Expected 2027
+Understanding how systems work — and why they fail.
 
 </td>
 
-<td align="center" width="33%">
+<td width="25%" align="center">
 
-### 📜 Patent
+### 🛡️
+**Security**
 
-**Patent Holder**
+Thinking beyond functionality to build safer systems.
 
-Research & Innovation
+</td>
+
+<td width="25%" align="center">
+
+### 🧩
+**Problem Solving**
+
+Breaking complex problems into practical solutions.
 
 </td>
 
-<td align="center" width="33%">
+<td width="25%" align="center">
 
-### 🎯 Interests
+### 🚀
+**Growth**
 
-Cybersecurity
-Software Engineering
-AI / ML
+Learning new technologies and continuously improving.
 
 </td>
+
 </tr>
 </table>
 
-</div>
 
 ---
 
-## 💡 How I Work
-
 <div align="center">
 
-```text
-              ┌──────────────┐
-              │    IDEA      │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │ UNDERSTAND   │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │    BUILD     │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │    TEST      │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │    SECURE    │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │   IMPROVE    │
-              └──────────────┘
-```
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/lakshya5000">
-<img src="https://img.shields.io/badge/GitHub-lakshya5000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="mailto:lakshyasoni657@gmail.com">
-<img src="https://img.shields.io/badge/Email-lakshyasoni657%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br><br>
-
-**Open to interesting collaborations, internships & opportunities.**
+## ✦ Keep Building. Keep Learning. Keep Securing. ✦
 
 <br>
 
-`BUILD` · `LEARN` · `SECURE` · `REPEAT`
+> *"The best way to understand a system is to build it —*  
+> *and the best way to protect it is to understand how it breaks."*
 
-</div>
+<br>
 
----
+### Let's build something meaningful.
 
-<div align="center">
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" width="100%" alt="Footer">
+<sub>BUILD · LEARN · SECURE · REPEAT</sub>
 
 </div>
