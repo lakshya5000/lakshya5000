@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO IMAGE / GIF -->
-<img src="./assets/hero.gif" width="850" alt="Lakshya Soni">
+<img src="./hero.gif" width="850" alt="Lakshya Soni">
 
 <br><br>
 
