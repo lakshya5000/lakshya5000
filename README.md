@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./main.gif" width="500" alt="Lakshya Soni" style="display:block;">
+  <img src="./main.gif" width="400" alt="Lakshya Soni" style="display:block;">
  
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Information+Security+%40+VIT+Vellore;Full-Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Explorer;Building+%7C+Learning+%7C+Securing" alt="Typing introduction"><br><br>
 
